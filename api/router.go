@@ -1,7 +1,6 @@
 package api
 
 import (
-	"html/template"
 	"net/http"
 	"os"
 	"strconv"
