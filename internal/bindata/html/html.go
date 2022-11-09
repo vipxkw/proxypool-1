@@ -5,7 +5,7 @@
 // assets/html/index.html
 // assets/html/surge.conf
 // assets/html/surge.html
-// package binhtml
+package binhtml
 
 import (
 	"bytes"
