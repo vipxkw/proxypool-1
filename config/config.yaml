@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://free886.herokuapp.com/source.yaml
+  - https://raw.githubusercontent.com/vipxkw/proxypool-1/master/config/source.yaml
