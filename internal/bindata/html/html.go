@@ -1,11 +1,11 @@
 // Code generated for package binhtml by go-bindata DO NOT EDIT. (@generated)
-sources:
-assets/html/clash-config.yaml
-assets/html/clash.html
-assets/html/index.html
-assets/html/surge.conf
-assets/html/surge.html
-package binhtml
+// sources:
+// assets/html/clash-config.yaml
+// assets/html/clash.html
+// assets/html/index.html
+// assets/html/surge.conf
+// assets/html/surge.html
+// package binhtml
 
 import (
 	"bytes"
